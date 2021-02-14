@@ -1,0 +1,3 @@
+^!§::
+Run red.sh
+return

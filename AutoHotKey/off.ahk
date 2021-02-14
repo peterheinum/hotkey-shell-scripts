@@ -1,3 +1,3 @@
-^!p::
+^!å::
 Run off.sh
 return

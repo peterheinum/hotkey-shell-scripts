@@ -1,3 +1,3 @@
-^!å::
+^!p::
 Run on.sh
 return
